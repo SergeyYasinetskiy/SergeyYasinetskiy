@@ -5,7 +5,7 @@
 #### I am an aspiring data scientist. I've finished the Yandex practicum courses. I have completed many projects in this area and actively looking for a job. I'm interested in data analysis, ML and many others.
 
 ###### My stack: 
-Python, Pandas, Numpy, Matplotlib, Sklearn, Seaborn, CatBoost, Lightgbm, TensorFlow, Keras
+Python, Pandas, Numpy, Matplotlib, SciPy Sklearn, Seaborn, CatBoost, Lightgbm, TensorFlow, Keras
 <br><br>
 
 <h3>My Repositories</h3>
